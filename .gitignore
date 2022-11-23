@@ -109,3 +109,5 @@ token.json
 
 #apple music private key
 private.pem
+*.p8
+*.pem
