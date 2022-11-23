@@ -17,4 +17,4 @@ DEBUG = False
 
 SECURE_SSL_REDIRECT = True
 
-ALLOWED_HOSTS = ['www.playlistor.io', 'playlistor.io']
+ALLOWED_HOSTS = ['m2s.webas.dk']
