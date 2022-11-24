@@ -15,6 +15,8 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
 DEBUG = False
 
+DB_DIR = "/dbstores/"
+
 SECURE_SSL_REDIRECT = True
 
 ALLOWED_HOSTS = ['m2s.webas.dk']
